@@ -26,7 +26,7 @@ In the example, beta is constant throughout the model and gamma is transient.
 
 Run the model using:
 
-$ sir-exe <infile>
+$ sir-exe _infile_
 
 License
 -------
