@@ -24,6 +24,10 @@ The sections of the input file are:
 
 In the example, beta is constant throughout the model and gamma is transient.
 
+Run the model using:
+
+$ sir-exe <infile>
+
 License
 -------
 MIT. If any of this is useful for you, do whatever you want with it.
